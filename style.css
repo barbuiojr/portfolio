@@ -22,7 +22,7 @@ header {
     justify-content: center;
     background-color: #050c55;
     border-radius: 15px;
-    color: #B7B7B7;
+    color: #d1bd9e;
 
 }
 .galery {
@@ -44,7 +44,7 @@ header {
     height: 450px;
 }
 p {
-    color: #B7B7B7;
+    color: #d1bd9e;
     font-size: 1.2em;
     padding: 30px;
     text-align: center;
